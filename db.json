@@ -1,5 +1,5 @@
 {
-    "characters": [
+    "initialAnimalList": [
       {
         "id": 1,
         "name": "Mr. Cute",
@@ -32,4 +32,3 @@
       }
     ]
    }
-   
