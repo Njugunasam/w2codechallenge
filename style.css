@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+  }
+  
+  h1 {
+    color: #15129e;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .animal-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .animal-details {
+    background-color: #fff;
+    border: 10px solid #35b419;
+    padding: 20px;
+    max-width: 300px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  img {
+    max-width: 100%;
+    height: 100px;
+    display: vertical;
+    margin: 0 auto;
+  }
+  
+  button {
+    background-color: #7f2099;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+  }
+  
+  button:hover {
+    background-color: #168d6d;
+  }
