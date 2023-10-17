@@ -1,34 +1,34 @@
 {
-    "initialAnimalList": [
-      {
-        "id": 1,
-        "name": "Mr. Cute",
-        "image": "https://bestanimations.com/gifs/cute-bird-act-without-expectation.html",
-        "votes": 0
-      },
-      {
-        "id": 2,
-        "name": "Mx. Monkey",
-        "image": "https://bestanimations.com/gifs/Pretty-Monkey.html",
-        "votes": 0
-      },
-      {
-        "id": 3,
-        "name": "Ms. Zebra",
-        "image": "https://bestanimations.com/gifs/zebra-running.html",
-        "votes": 0
-      },
-      {
-        "id": 4,
-        "name": "Dr. Lion",
-        "image": "https://bestanimations.com/gifs/Lion-Running-In-Jungle.html",
-        "votes": 0
-      },
-      {
-        "id": 5,
-        "name": "Mme. Panda",
-        "image": "https://bestanimations.com/gifs/Cute-Panda-Bear-Cartoon.html",
-        "votes": 0
-      }
-    ]
-   }
+  "initialAnimalList": [
+    {
+      "id": 1,
+      "name": "Mr. Cute",
+      "image": "https://bestanimations.com/gifs/cute-bird-act-without-expectation.html",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Mx. Monkey",
+      "image": "https://bestanimations.com/gifs/Pretty-Monkey.html",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "name": "Ms. Zebra",
+      "image": "https://bestanimations.com/gifs/zebra-running.html",
+      "votes": 0
+    },
+    {
+      "id": 4,
+      "name": "Dr. Lion",
+      "image": "https://bestanimations.com/gifs/Lion-Running-In-Jungle.html",
+      "votes": 0
+    },
+    {
+      "id": 5,
+      "name": "Mme. Panda",
+      "image": "https://bestanimations.com/gifs/Cute-Panda-Bear-Cartoon.html",
+      "votes": 0
+    }
+  ]
+}
