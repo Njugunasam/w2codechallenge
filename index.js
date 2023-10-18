@@ -1,15 +1,15 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch('http://localhost:3000/initialAnimalList')
+  fetch('http://localhost:3000/characters')
     .then(response => response.json())
     .then(data => {
-      showAllAnimalList(data);
+      showAllcharacters(data);
     })
     .catch(error => {
       console.error('Error fetching data:', error);
     });
 });
 
-function showAllAnimalList(data) {
+function showAllcharacters(data) {
   const animalList = document.getElementById('animal-list');
 
   data.forEach(animal => {

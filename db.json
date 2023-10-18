@@ -1,34 +1,35 @@
 {
-  "initialAnimalList": [
+  "characters": [
     {
       "id": 1,
       "name": "Mr. Cute",
-      "image": "https://bestanimations.com/gifs/cute-bird-act-without-expectation.html",
+      "image": "https://bestanimations.com/media/birds/175785939woodpecker-bird-gif.gif",
       "votes": 0
     },
     {
       "id": 2,
       "name": "Mx. Monkey",
-      "image": "https://bestanimations.com/gifs/Pretty-Monkey.html",
+      "image": "https://bestanimations.com/media/mammals/1486141007cute-monkey-gif-5.gif",
       "votes": 0
     },
     {
       "id": 3,
       "name": "Ms. Zebra",
-      "image": "https://bestanimations.com/gifs/zebra-running.html",
+      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
       "votes": 0
     },
     {
       "id": 4,
       "name": "Dr. Lion",
-      "image": "https://bestanimations.com/gifs/Lion-Running-In-Jungle.html",
+      "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
       "votes": 0
     },
     {
       "id": 5,
       "name": "Mme. Panda",
-      "image": "https://bestanimations.com/gifs/Cute-Panda-Bear-Cartoon.html",
+      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
       "votes": 0
     }
   ]
-}
+ }
+ 
