@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("http://localhost:3000/characters")
+  fetch("  http://localhost:3000/characters/")
     .then(response => response.json())
     .then(data => {
       showAllcharacters(data);
@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
       console.error('Error fetching data:', error);
     });
 });
-
+//difine show all characters
 function showAllcharacters(data) {
   const animalList = document.getElementById('animal-list');
 
