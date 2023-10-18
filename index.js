@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch('http://localhost:3000/characters')
+  fetch("http://localhost:3000/characters")
     .then(response => response.json())
     .then(data => {
       showAllcharacters(data);
