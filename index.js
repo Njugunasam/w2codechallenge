@@ -1,6 +1,6 @@
 //fetching data from db
 document.addEventListener("DOMContentLoaded", function () { 
-  fetch(" http://localhost:3000/characters") 
+  fetch(" https://my-json-server.typicode.com/Njugunasam/w2codechallenge/characters") 
     .then(response => response.json()) 
     .then(data => { 
       showAllCharacters(data); 
